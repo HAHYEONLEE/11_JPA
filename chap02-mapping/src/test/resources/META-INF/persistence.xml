@@ -3,6 +3,14 @@
     <!-- 엔티티 매니저 팩토리를 식별하기 위한 이름 설정(name으로) -->
     <persistence-unit name="jpatest">
         <class>com.ohgiraffers.section01.entity.Member</class>
+        <class>com.ohgiraffers.section02.column.Member</class>
+        <class>com.ohgiraffers.section03.primarykey.subsection01.sequence.Member</class>
+        <class>com.ohgiraffers.section03.primarykey.subsection02.table.Member</class>
+        <class>com.ohgiraffers.section04.enumtype.Member</class>
+        <class>com.ohgiraffers.section05.access.subsection01.field.Member</class>
+        <class>com.ohgiraffers.section05.access.subsection02.getter.Member</class>
+        <class>com.ohgiraffers.section06.compositekey.subsection01.embedded.Member</class>
+        <class>com.ohgiraffers.section06.compositekey.subsection02.idclass.Member</class>
         <properties>
             <!-- 데이터 베이스 연결 정보 -->
             <property name="javax.persistence.jdbc.driver" value="oracle.jdbc.OracleDriver"/>
@@ -10,9 +18,9 @@
             <property name="javax.persistence.jdbc.password" value="OHGIRAFFERS"/>
             <property name="javax.persistence.jdbc.url" value="jdbc:oracle:thin:@localhost:1521:xe"/>
             <!-- hibernate 설정 (실행 되는 sql 구문을 format 형태로 보여준다) -->
-            <property name="hibernate.hbm2ddl.auto" value="create"/>
             <property name="hibernate.show_sql" value="true"/>
             <property name="hibernate.format_sql" value="true"/>
+            <property name="hibernate.hbm2ddl.auto" value="create"/>  <!-- 주로 생성되어있는 테이블로 이용하기 떄문에 거의 사용하지 않는다-->
         </properties>
     </persistence-unit>
 </persistence>

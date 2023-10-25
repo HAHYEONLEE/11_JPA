@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence" version="2.1">
+    <!-- 엔티티 매니저 팩토리를 식별하기 위한 이름 설정(name으로) -->
+    <persistence-unit name="jpatest">
+        <class>com.ohgiraffers.section01.manytoone.Category</class>
+        <class>com.ohgiraffers.section01.manytoone.MenuAndCategory</class>
+        <class>com.ohgiraffers.section02.onetomany.Menu</class>
+        <class>com.ohgiraffers.section02.onetomany.CategoryAndMenu</class>
+        <class>com.ohgiraffers.section03.bidirection.Menu</class>
+        <class>com.ohgiraffers.section03.bidirection.Category</class>
+        <properties>
+            <!-- 데이터 베이스 연결 정보 -->
+            <property name="javax.persistence.jdbc.driver" value="oracle.jdbc.OracleDriver"/>
+            <property name="javax.persistence.jdbc.user" value="C##OHGIRAFFERS"/>
+            <property name="javax.persistence.jdbc.password" value="OHGIRAFFERS"/>
+            <property name="javax.persistence.jdbc.url" value="jdbc:oracle:thin:@localhost:1521:xe"/>
+            <!-- hibernate 설정 (실행 되는 sql 구문을 format 형태로 보여준다) -->
+            <property name="hibernate.show_sql" value="true"/>
+            <property name="hibernate.format_sql" value="true"/>
+            <property name="hibernate.physical_naming_strategy" value="org.hibernate.boot.model.naming.CamelCaseToUnderscoresNamingStrategy"/>
+            <!-- 카멜케이스로 작성된 엔터티 및 컬럼 이름을 언더스코어로 변환하는 전략이다.
+            예를 들어 "myColumnName"은 "my_column_name"으로 변환-->
+        </properties>
+    </persistence-unit>
+</persistence>

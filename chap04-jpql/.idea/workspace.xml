@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ff10d7c-d673-43fc-adb9-15e391236532" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/src/test/java/com/ohgiraffers/section04/onetoone/subsection01/OneToOneAssociationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/src/test/java/com/ohgiraffers/section04/onetoone/subsection01/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/src/test/java/com/ohgiraffers/section04/onetoone/subsection01/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/src/test/java/com/ohgiraffers/section04/onetoone/subsection02/OneToOneAssociationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/src/test/java/com/ohgiraffers/section04/onetoone/subsection02/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/src/test/java/com/ohgiraffers/section04/onetoone/subsection02/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/src/test/java/com/ohgiraffers/section04/onetoone/subsection03/OneToOneAssociationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/src/test/java/com/ohgiraffers/section04/onetoone/subsection03/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/src/test/java/com/ohgiraffers/section04/onetoone/subsection03/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/src/test/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section01/simple/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section01/simple/SimpleJPQLTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section02/parameter/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section02/parameter/ParameterBindingTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section03/projection/BiDirectionCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section03/projection/BiDirectionMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section03/projection/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section03/projection/CategoryInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section03/projection/EmbeddedMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section03/projection/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section03/projection/MenuInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section03/projection/ProjectionTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01-persistence-context/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap01-persistence-context/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02-mapping/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02-mapping/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02-mapping/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02-mapping/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02-mapping/src/test/java/com/ohgiraffers/section01/entity/EntityMappingTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02-mapping/src/test/java/com/ohgiraffers/section01/entity/EntityMappingTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02-mapping/src/test/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02-mapping/src/test/resources/META-INF/persistence.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2XEkaCbxHeMHxWktyTBrJhJK5cI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Lecture/11_jpa/01_lecture-source/chap04-jpql/src/test/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "oracle"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Lecture\11_jpa\01_lecture-source\chap04-jpql\src\test\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ohgiraffers.section03.projection" />
+      <recent name="com.ohgiraffers.section02.parameter" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.ProjectionTests.new_명령어를_활용한_프로젝션_테스트">
+    <configuration name="ProjectionTests.Query를_이용한_스칼라_타입_프로젝션_테스트" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.ohgiraffers.section03.projection.ProjectionTests.Query를_이용한_스칼라_타입_프로젝션_테스트&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ProjectionTests.TypeQuery를_이용한_스칼라_타입_프로젝션_테스트" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.ohgiraffers.section03.projection.ProjectionTests.TypeQuery를_이용한_스칼라_타입_프로젝션_테스트&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ProjectionTests.임베디드_타입_프로젝션_테스트" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.ohgiraffers.section03.projection.ProjectionTests.임베디드_타입_프로젝션_테스트&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ProjectionTests.양방향_연관관계_엔터티_프로젝션_테스트" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.ohgiraffers.section03.projection.ProjectionTests.양방향_연관관계_엔터티_프로젝션_테스트&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ProjectionTests.new_명령어를_활용한_프로젝션_테스트" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.ohgiraffers.section03.projection.ProjectionTests.new_명령어를_활용한_프로젝션_테스트&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ProjectionTests.new_명령어를_활용한_프로젝션_테스트" />
+        <item itemvalue="Gradle.ProjectionTests.Query를_이용한_스칼라_타입_프로젝션_테스트" />
+        <item itemvalue="Gradle.ProjectionTests.TypeQuery를_이용한_스칼라_타입_프로젝션_테스트" />
+        <item itemvalue="Gradle.ProjectionTests.임베디드_타입_프로젝션_테스트" />
+        <item itemvalue="Gradle.ProjectionTests.양방향_연관관계_엔터티_프로젝션_테스트" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ff10d7c-d673-43fc-adb9-15e391236532" name="Changes" comment="" />
+      <created>1698201689080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698201689080</updated>
+      <workItem from="1698201690176" duration="13129000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
