@@ -5,39 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ff10d7c-d673-43fc-adb9-15e391236532" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/src/test/java/com/ohgiraffers/section04/onetoone/subsection01/OneToOneAssociationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/src/test/java/com/ohgiraffers/section04/onetoone/subsection01/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/src/test/java/com/ohgiraffers/section04/onetoone/subsection01/UserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/src/test/java/com/ohgiraffers/section04/onetoone/subsection02/OneToOneAssociationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/src/test/java/com/ohgiraffers/section04/onetoone/subsection02/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/src/test/java/com/ohgiraffers/section04/onetoone/subsection02/UserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/src/test/java/com/ohgiraffers/section04/onetoone/subsection03/OneToOneAssociationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/src/test/java/com/ohgiraffers/section04/onetoone/subsection03/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/src/test/java/com/ohgiraffers/section04/onetoone/subsection03/UserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-association-mapping-addition/src/test/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section01/simple/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section01/simple/SimpleJPQLTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section02/parameter/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section02/parameter/ParameterBindingTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section03/projection/BiDirectionCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section03/projection/BiDirectionMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section03/projection/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section03/projection/CategoryInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section03/projection/EmbeddedMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section03/projection/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section03/projection/MenuInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section03/projection/ProjectionTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section04/paging/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section04/paging/PagingTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section05/groupfunction/GroupFunctionTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section05/groupfunction/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section06/join/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section06/join/JoinTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section06/join/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section07/subquery/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section07/subquery/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section07/subquery/SubqueryTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section08/namedquery/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/section08/namedquery/NamedQueryTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-native-query/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-native-query/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-native-query/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-native-query/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-native-query/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-native-query/src/test/java/com/ohgiraffers/section01/simple/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-native-query/src/test/java/com/ohgiraffers/section01/simple/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-native-query/src/test/java/com/ohgiraffers/section01/simple/NativeQueryTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-native-query/src/test/resources/META-INF/persistence.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chap01-persistence-context/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap01-persistence-context/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap02-mapping/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02-mapping/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap02-mapping/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02-mapping/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap02-mapping/src/test/java/com/ohgiraffers/section01/entity/EntityMappingTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02-mapping/src/test/java/com/ohgiraffers/section01/entity/EntityMappingTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap02-mapping/src/test/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02-mapping/src/test/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/01dae3ea-ed59-49ad-a986-0bfc1716dd2e.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/01dae3ea-ed59-49ad-a986-0bfc1716dd2e.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +49,12 @@
         <task path="$PROJECT_DIR$">
           <activation />
         </task>
-        <projects_view />
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
   </component>
@@ -69,9 +68,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2XEkaCbxHeMHxWktyTBrJhJK5cI" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -83,9 +82,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Lecture/11_jpa/01_lecture-source/chap04-jpql/src/test/resources",
+    "last_opened_file_path": "C:/Lecture/11_jpa/01_lecture-source/chap04-jpql/src/test/java/com/ohgiraffers/section07/subquery",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -100,15 +100,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Lecture\11_jpa\01_lecture-source\chap04-jpql\src\test\java\com\ohgiraffers\section07\subquery" />
+      <recent name="C:\Lecture\11_jpa\01_lecture-source\chap04-jpql\src\test\java\com\ohgiraffers\section06\join" />
       <recent name="C:\Lecture\11_jpa\01_lecture-source\chap04-jpql\src\test\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ohgiraffers.section08.namedquery" />
+      <recent name="com.ohgiraffers.section05.groupfunction" />
+      <recent name="com.ohgiraffers.section04.paging" />
       <recent name="com.ohgiraffers.section03.projection" />
       <recent name="com.ohgiraffers.section02.parameter" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.ProjectionTests.new_명령어를_활용한_프로젝션_테스트">
-    <configuration name="ProjectionTests.Query를_이용한_스칼라_타입_프로젝션_테스트" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.NamedQueryTests.네임드쿼리를_이용한_조회_테스트">
+    <configuration name="GroupFunctionTests.count를_제외한_다른_그룹함수의_조회결과가_없는_경우_테스트" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -121,7 +126,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;com.ohgiraffers.section03.projection.ProjectionTests.Query를_이용한_스칼라_타입_프로젝션_테스트&quot;" />
+            <option value="&quot;com.ohgiraffers.section05.groupfunction.GroupFunctionTests.count를_제외한_다른_그룹함수의_조회결과가_없는_경우_테스트&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -132,7 +137,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="ProjectionTests.TypeQuery를_이용한_스칼라_타입_프로젝션_테스트" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="GroupFunctionTests.groupby절과_having절을_사용한_조회_테스트" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -145,7 +150,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;com.ohgiraffers.section03.projection.ProjectionTests.TypeQuery를_이용한_스칼라_타입_프로젝션_테스트&quot;" />
+            <option value="&quot;com.ohgiraffers.section05.groupfunction.GroupFunctionTests.groupby절과_having절을_사용한_조회_테스트&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -156,7 +161,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="ProjectionTests.임베디드_타입_프로젝션_테스트" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="NamedQueryTests.동적쿼리를_이용한_조회_테스트" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -169,7 +174,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;com.ohgiraffers.section03.projection.ProjectionTests.임베디드_타입_프로젝션_테스트&quot;" />
+            <option value="&quot;com.ohgiraffers.section08.namedquery.NamedQueryTests.동적쿼리를_이용한_조회_테스트&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -180,7 +185,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="ProjectionTests.양방향_연관관계_엔터티_프로젝션_테스트" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="NamedQueryTests.네임드쿼리를_이용한_조회_테스트" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -193,7 +198,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;com.ohgiraffers.section03.projection.ProjectionTests.양방향_연관관계_엔터티_프로젝션_테스트&quot;" />
+            <option value="&quot;com.ohgiraffers.section08.namedquery.NamedQueryTests.네임드쿼리를_이용한_조회_테스트&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -204,7 +209,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="ProjectionTests.new_명령어를_활용한_프로젝션_테스트" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SubqueryTests.서브쿼리를_이용한_메뉴_조회_테스트" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -217,7 +222,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;com.ohgiraffers.section03.projection.ProjectionTests.new_명령어를_활용한_프로젝션_테스트&quot;" />
+            <option value="&quot;com.ohgiraffers.section07.subquery.SubqueryTests.서브쿼리를_이용한_메뉴_조회_테스트&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -230,11 +235,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.ProjectionTests.new_명령어를_활용한_프로젝션_테스트" />
-        <item itemvalue="Gradle.ProjectionTests.Query를_이용한_스칼라_타입_프로젝션_테스트" />
-        <item itemvalue="Gradle.ProjectionTests.TypeQuery를_이용한_스칼라_타입_프로젝션_테스트" />
-        <item itemvalue="Gradle.ProjectionTests.임베디드_타입_프로젝션_테스트" />
-        <item itemvalue="Gradle.ProjectionTests.양방향_연관관계_엔터티_프로젝션_테스트" />
+        <item itemvalue="Gradle.NamedQueryTests.네임드쿼리를_이용한_조회_테스트" />
+        <item itemvalue="Gradle.NamedQueryTests.동적쿼리를_이용한_조회_테스트" />
+        <item itemvalue="Gradle.GroupFunctionTests.groupby절과_having절을_사용한_조회_테스트" />
+        <item itemvalue="Gradle.GroupFunctionTests.count를_제외한_다른_그룹함수의_조회결과가_없는_경우_테스트" />
+        <item itemvalue="Gradle.SubqueryTests.서브쿼리를_이용한_메뉴_조회_테스트" />
       </list>
     </recent_temporary>
   </component>
@@ -247,10 +252,26 @@
       <option name="presentableId" value="Default" />
       <updated>1698201689080</updated>
       <workItem from="1698201690176" duration="13129000" />
+      <workItem from="1698278106414" duration="10194000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ohgiraffers/section05/groupfunction/GroupFunctionTests.java</url>
+          <line>34</line>
+          <properties class="com.ohgiraffers.section05.groupfunction.GroupFunctionTests" method="특정_카테고리의_동록된_메뉴_수_조회">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
