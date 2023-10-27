@@ -85,7 +85,7 @@ public class MenuController {
 
         return "menu/searchResult";
     }
-
+ //--======================= 숙제 입니다 =================================
     @GetMapping("/searchName")
     public String findByMenuName(@RequestParam String menuName, Model model) {
 
@@ -107,6 +107,7 @@ public class MenuController {
     @GetMapping("/categoryList")
     @ResponseBody
     public List<CategoryDTO> findCategoryList1(){
+
         return menuService.findAllCategory();
     }
 
@@ -120,6 +121,8 @@ public class MenuController {
 
         return "menu/searchNameAndPrice";
     }
+
+//======================= 여기까지 입니다 =============================
 
 
     @GetMapping("/regist")

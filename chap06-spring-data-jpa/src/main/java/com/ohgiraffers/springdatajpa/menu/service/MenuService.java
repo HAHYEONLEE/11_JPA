@@ -99,6 +99,8 @@ public class MenuService {
         menuRepository.deleteById(menuCode);
     }
 
+
+// ======================= 숙제 입니다 =================================
     public List<MenuDTO> findByMenuName(String menuName) {
 
         List<Menu> menuList = menuRepository.findByMenuNameContaining(menuName);
